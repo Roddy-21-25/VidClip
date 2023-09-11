@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAI62TYXpflUWmTsBl/D0EUwAAAAACAAAAAAAQZgAAAAEAACAAAAC3aIK3xxiTVX9+va4jKMNQ1Jx84IDGuzbHsN6y/CMowAAAAAAOgAAAAAIAACAAAAAjb8VDSSyXb5JTS1Smr6ty+RWwqQSvNNx8g2HmVomp+0AAAACwaQJdFcH0Yn0fUObSkmx4cgZj9GnI2NLiTmRhtLNPM4Tg5WjZkLOe13+AJVsSPIoVZVRkMWBIYfnPx9MFNkBaQAAAAPXT0leBxwd/XqKdj5eU1o4lQHSMCwGLWKkefgKgCnT2ZEKfrCJRuLahppUKAwJIKIQeS9YhlZcZl4BLnWvGX6c=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://192.52.242.121/www.VidClip.somee.com</_PublishTargetUrl>
+    <History>True|2023-09-11T19:14:23.2963131Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/09/2023 20:36:09</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>09/09/2023 20:36:09</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 16:14:12</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/17/2021 16:03:36</publishTime>
+    </File>
+    <File Include="PexelsDotNetSDK.dll">
+      <publishTime>09/16/2022 05:22:34</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>01/11/2023 02:48:20</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>01/11/2023 02:48:24</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>01/11/2023 02:49:02</publishTime>
+    </File>
+    <File Include="VidClip.Api.deps.json">
+      <publishTime>09/11/2023 15:13:37</publishTime>
+    </File>
+    <File Include="VidClip.Api.dll">
+      <publishTime>09/11/2023 15:13:36</publishTime>
+    </File>
+    <File Include="VidClip.Api.exe">
+      <publishTime>09/11/2023 15:13:36</publishTime>
+    </File>
+    <File Include="VidClip.Api.pdb">
+      <publishTime>09/11/2023 15:13:36</publishTime>
+    </File>
+    <File Include="VidClip.Api.runtimeconfig.json">
+      <publishTime>09/11/2023 15:13:37</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>09/11/2023 15:13:48</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

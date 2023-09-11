@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VidClip.Api.props" />
+</Project>
